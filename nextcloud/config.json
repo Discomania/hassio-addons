@@ -44,5 +44,5 @@
         "armv7",
         "i386"
     ],
-    "image": "Discomania/{arch}-addon-nextcloud"
+    "image": "discomania/{arch}-addon-nextcloud"
 }

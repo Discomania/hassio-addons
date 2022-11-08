@@ -44,5 +44,5 @@
         "armv7",
         "i386"
     ],
-    "image": "mtthp/{arch}-addon-nextcloud"
+    "image": "Discomania/{arch}-addon-nextcloud"
 }

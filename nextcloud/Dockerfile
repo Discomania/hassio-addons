@@ -38,8 +38,8 @@ LABEL \
     org.label-schema.build-date=${BUILD_DATE} \
     org.label-schema.name="Nextcloud" \
     org.label-schema.schema-version="1.0.0" \
-    org.label-schema.url="https://github.com/mtthp/hassio-addons" \
-    org.label-schema.usage="https://github.com/mtthp/hassio-addons/tree/master/nextcloud/README.md" \
+    org.label-schema.url="https://github.com/discomania/hassio-addons" \
+    org.label-schema.usage="https://github.com/discomania/hassio-addons/tree/master/nextcloud/README.md" \
     org.label-schema.vcs-ref=${BUILD_REF} \
-    org.label-schema.vcs-url="https://github.com/mtthp/hassio-addons/" \
+    org.label-schema.vcs-url="https://github.com/discomania/hassio-addons/" \
     org.label-schema.vendor="mtthp Hass.io Add-ons"

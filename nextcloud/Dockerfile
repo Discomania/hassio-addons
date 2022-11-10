@@ -5,7 +5,7 @@ FROM ${BUILD_FROM}
 COPY rootfs /
 
 RUN apt-get update \
- && DEBIAN_FRONTEND=noninteractive apt-get install -y jq smbclient \
+ && DEBIAN_FRONTEND=noninteractive apt-get install -y jq smbclient libmagickcore-6.q16-6-extra \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* ~/.cache
 

@@ -1,6 +1,6 @@
 {
     "name": "Nextcloud",
-    "version": "25.0.1",
+    "version": "24.0.7",
     "slug": "nextcloud",
     "description": "Self-hosted file share and collaboration platform on the web",
     "url": "https://github.com/discomania/hassio-addons/tree/master/nextcloud",
